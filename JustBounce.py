@@ -1,6 +1,4 @@
 import turtle
-import math
-import msvcrt as m
 import time
 
 turtle.register_shape("Pilka1.gif")
